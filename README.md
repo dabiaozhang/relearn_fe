@@ -11,7 +11,7 @@
 
 [05 JavaScript类型：关于类型，有哪些你不知道的细节？](https://www.evernote.com/l/APrdvdmKQ2pB7aJfhXZETwCPZrzFi3DQlIE)
 
-[06 JavaScript对象：面向对象还是基于对象？](https://www.evernote.com/l/APpV_oQmcP1Igaj1GvWbtx9fB9UXRIHtK7M)
+[06 JavaScript对象：面向对象还是基于对象？](https://www.evernote.com/l/APpV_oQmcP1Igaj1GvWbtx9fPSFXdfUA9XU)
 
 [07 JavaScript对象：我们真的需要模拟类吗？](https://www.evernote.com/l/APpM7BUXAPVD64JIEI8_wBKbDhBwh5JK0C0)
 
